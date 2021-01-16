@@ -13,7 +13,7 @@ An ML based app build with teachable machine to detect whether a person wore a m
 >- ML
 >- Tensorflow
 
-###To know more visit the site:
+### To know more visit the site:
 >
 >https://teachablemachine.withgoogle.com/
 
@@ -26,6 +26,7 @@ An ML based app build with teachable machine to detect whether a person wore a m
 >View the working here:-
 >
 >For mask detection:-https://teachablemachine.withgoogle.com/models/btQ-bFQq2/
+>
 >For fruits detection:-https://teachablemachine.withgoogle.com/models/OeFDJggwv/
 
 
